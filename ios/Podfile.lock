@@ -1,0 +1,37 @@
+PODS:
+  - Capacitor (2.2.0):
+    - CapacitorCordova
+  - CapacitorCordova (2.2.0)
+  - InLoco-iOS-SDK (5.3.0):
+    - InLocoCommon-iOS-SDK (= 5.3.0)
+  - InLocoCommon-iOS-SDK (5.3.0)
+  - InLocoEngage-iOS-SDK (5.3.0):
+    - InLoco-iOS-SDK (= 5.3.0)
+
+DEPENDENCIES:
+  - "Capacitor (from `../node_modules/@capacitor/ios`)"
+  - "CapacitorCordova (from `../node_modules/@capacitor/ios`)"
+  - InLocoEngage-iOS-SDK (~> 5.3.0)
+
+SPEC REPOS:
+  trunk:
+    - InLoco-iOS-SDK
+    - InLocoCommon-iOS-SDK
+    - InLocoEngage-iOS-SDK
+
+EXTERNAL SOURCES:
+  Capacitor:
+    :path: "../node_modules/@capacitor/ios"
+  CapacitorCordova:
+    :path: "../node_modules/@capacitor/ios"
+
+SPEC CHECKSUMS:
+  Capacitor: a8c89aa7384374b805ccc175b4a3374472b5941e
+  CapacitorCordova: a77bb95d31143546af63577154d9852d33c62a82
+  InLoco-iOS-SDK: 89b97d6fc33b2556bf4a01f373c91783285cc41a
+  InLocoCommon-iOS-SDK: 7bd97d283d6d95ccd9a816bad7a0269401be2cb6
+  InLocoEngage-iOS-SDK: 250d47dcb132ac2a67eb3150d280b4983d95964a
+
+PODFILE CHECKSUM: d149330212e3216f71d722763370ea78db3bd9db
+
+COCOAPODS: 1.9.3
