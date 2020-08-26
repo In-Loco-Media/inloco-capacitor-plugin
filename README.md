@@ -71,7 +71,7 @@ First, check out if you fulfill the SDK minimum requirements.
 From the command line:
 
 ```bash
-npm install inloco-capacitor-plugin@0.1.0 --save
+npm install inloco-capacitor-plugin@0.1.1 --save
 ```
 
 ## Include the required Android permissions

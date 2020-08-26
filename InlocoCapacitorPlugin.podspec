@@ -1,7 +1,7 @@
 
   Pod::Spec.new do |s|
     s.name = 'InlocoCapacitorPlugin'
-    s.version = '0.1.0'
+    s.version = '0.1.1'
     s.summary = 'to define'
     s.license = 'MIT'
     s.homepage = 'https://github.com/In-Loco-Media/inloco-capacitor-plugin.git'
